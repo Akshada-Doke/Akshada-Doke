@@ -1,4 +1,4 @@
--👋 Hi, I’m @Rohan-Badhe
+-👋 Hi, I’m @akshada Doke 
 -👀 I’m interested in coding, exploring new technologies, and creating impactful projects.
 -🌱 I’m currently learning advanced Java (including JDBC) and backend development.
 -💞️ I’m looking to collaborate on open-source projects and innovative web or mobile applications.
